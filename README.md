@@ -9,3 +9,8 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 cd && cd ./install && sudo ./install_instancia
 ```
 
+## VERSÃO MELHORADA DO CANAL VEM FAZER 
+
+## CONTATO          Equipechat LTDA
+
+Fone: 81 +55 81 9998-8876 (WhatsApp)
